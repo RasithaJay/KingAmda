@@ -102,7 +102,7 @@ Click here to see the latest updates (2.9v update).
 ### Easy Method
 #### 01. Click Run on Repl.it (Computer users) and Run the qr generator by clicking play button.
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR-Code)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@SamarasinghaPas/KingAmda)
 
 #### If you are a mobile phone user. You can get the QR code using Termux. (Android only. IOS users must use the repl.it button)
 
