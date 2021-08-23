@@ -102,7 +102,7 @@ Queen Amdi bot විශේෂාංග මෙන්න.
 ### සරල ක්‍රමය
 #### 01. Click Run on Repl.it (Computer users) and Run the qr generator by clicking play button.
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR-Code)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@SamarasinghaPas/KingAmda)
 
 #### ඔබ ජංගම ජංගම දුරකථන භාවිතා කරන්නෙක් නම්. Termux භාවිතා කිරීමෙන් ඔබට QR කේතය ලබා ගත හැකිය. (Android පමනි. IOS භාවිතා කරන්නන්ට repl.it button භාවිතා කළ යුතුය)
 
@@ -117,7 +117,7 @@ $ `bash <(curl -L https://t.ly/j0CU)`
 
 #### 02. Click Deploy button
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackAmda/QueenAmdi)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TechKnowLK/KingAmda)
 
 AN Tech Official Youtube Channel : https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ
 
